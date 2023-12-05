@@ -1,0 +1,4 @@
+habib_thamer urgence standart B- 06 02/04/2023 
+charnikole urgence non_urgent B- 22 03/12/2023 
+bougatfa_bizerte urgence urgent AB+ 15 23/19/2023 
+mongi_slim hopitale urgent O+ 23 23/10/2023 
